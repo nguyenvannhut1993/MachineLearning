@@ -1,0 +1,38 @@
+<annotation>
+	<folder>datasheets</folder>
+	<filename>A8U100.png</filename>
+	<path>C:\Users\nvnhu\Downloads\AMF102 Raw Image Pack 1\datasheets\A8U100.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1248</width>
+		<height>1246</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>light_scratch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>565</xmin>
+			<ymin>292</ymin>
+			<xmax>768</xmax>
+			<ymax>787</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>559</xmin>
+			<ymin>783</ymin>
+			<xmax>587</xmax>
+			<ymax>809</ymax>
+		</bndbox>
+	</object>
+</annotation>
